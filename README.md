@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ytimg.com/vi/zGuvIGuN7D8/maxresdefault.jpg)
 <h1 align="center">Hi 👋, I'm Sabuhi Mammadov</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="center">Frontend developer from Azerbaijan</h3>
 
 - 📫 How to reach me **sebuhimv@gmail.com**
 
