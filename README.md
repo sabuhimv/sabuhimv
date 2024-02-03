@@ -15,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabuhimv&show_icons=true&locale=en&layout=compact" alt="sabuhimv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabuhimv&show_icons=true&locale=en" alt="sabuhimv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabuhimv&" alt="sabuhimv" /></p>
